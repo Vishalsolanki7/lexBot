@@ -3,8 +3,12 @@
 1. Create an Amazon Lex Bot (Console)
 
 2. Create a Lambda Function (Console/Terminal)
+
 a. ~npm axios
+
 b. ~aws configure (create IAM user and give correct priviledges)
+
+
 c. ~sls deploy 	(handler.js)
 
 *Remmeber to add the below permissions specifically (AWSLambdaBasicExecutionRole and AWSXRayDaemonWriteAccess).
