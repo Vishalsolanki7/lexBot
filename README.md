@@ -9,7 +9,7 @@ a. ~npm axios
 b. ~aws configure (create IAM user and give correct priviledges)
 
 
-c. ~sls deploy 	(handler.js)
+c. ~sls deploy 	(handler.js & serverless.yml)
 
 *Remmeber to add the below permissions specifically (AWSLambdaBasicExecutionRole and AWSXRayDaemonWriteAccess).
 
